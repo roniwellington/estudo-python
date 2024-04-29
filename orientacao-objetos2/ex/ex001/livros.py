@@ -12,6 +12,7 @@ class Livro:
 
 livro1 = Livro("Aprendendo Python", "John Doe", 2022)
 livro2 = Livro("Data Science Fundamentals", "Jane Smith", 2020)
+livro2 = Livro("Data Science Fundamentals", "Jane Smith", 2020)
 
 print(livro1)
 print(livro2)
